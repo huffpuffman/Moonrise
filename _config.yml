@@ -8,7 +8,7 @@ logo: "assets/img/TylerHeadshot.jpeg"
 background: "assets/img/CrecentMoon.jpeg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: https://huffpuffman.github.io
+url: https://tylerhuffman.com
 
 # Jekyll
 permalink: /:title/
@@ -36,7 +36,7 @@ sass:
 #ad-client:
 #ad-slot:
 #bing-verify:
-email: tylerhuufman@me.com
+email: tylerhuffman@me.com
 #twitter: 
 facebook: huffpuffman
 #github-url: 
